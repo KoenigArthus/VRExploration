@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 21d2171e085cb8141a541101e762aeca
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: WERESNAKE_ Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WERESNAKE_ R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: FischMenschModelV1.1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.001
+      parentName: FischMenschModelV1.1(Clone)
+      position: {x: -0.0023591518, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: Armature.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_
+      parentName: root
+      position: {x: -0, y: 1.3482368, z: 0}
+      rotation: {x: 0.7071068, y: -0.0000004790697, z: 0.0000004172524, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_ Pelvis
+      parentName: WERESNAKE_
+      position: {x: -3.6591302e-15, y: -8.535368e-12, z: 0}
+      rotation: {x: 0.00000049030825, y: -0.7071063, z: 0.00000049030757, w: 0.70710725}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ Spine
+      parentName: WERESNAKE_ Pelvis
+      position: {x: -0.13410546, y: -0.048028722, z: 0.0000003315223}
+      rotation: {x: -0.6673292, y: 0.7447364, z: -0.0061760163, w: 0.0011841372}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: WERESNAKE_ Spine1
+      parentName: WERESNAKE_ Spine
+      position: {x: 0.00023510722, y: 0.3090645, z: 0.0000021049286}
+      rotation: {x: -0.0096413, y: 0.00037462235, z: -0.21005021, w: 0.977643}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: WERESNAKE_ Neck
+      parentName: WERESNAKE_ Spine1
+      position: {x: -0.01270196, y: 0.3445049, z: -0.023793628}
+      rotation: {x: 0.032649916, y: 0.0054070125, z: 0.1231736, w: 0.99183315}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ Neck1
+      parentName: WERESNAKE_ Neck
+      position: {x: -0.024273444, y: 0.23652184, z: -0.0081664445}
+      rotation: {x: -0.027888624, y: -0.0074220793, z: -0.043797377, w: 0.99862355}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: WERESNAKE_ Head
+      parentName: WERESNAKE_ Neck1
+      position: {x: -0.0169626, y: 0.23409833, z: 0.0020552394}
+      rotation: {x: -0.35261512, y: 0.8842559, z: 0.14611639, w: -0.26908025}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: WERESNAKE_ Ponytail1
+      parentName: WERESNAKE_ Head
+      position: {x: 0.1545199, y: -0.046003368, z: 0.02258478}
+      rotation: {x: 0.38559765, y: 0.87037885, z: 0.29453602, w: 0.08368791}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: WERESNAKE_TONGUE_1
+      parentName: WERESNAKE_ Ponytail1
+      position: {x: 0.14192861, y: 0.07154584, z: -0.0072029727}
+      rotation: {x: 0.38184938, y: 0.9242246, z: 0.000001354996, w: 0.0000020603268}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: WERESNAKE_TONGUE_2
+      parentName: WERESNAKE_TONGUE_1
+      position: {x: -0.000057557434, y: 0.088554315, z: 0.007865639}
+      rotation: {x: -0.14063232, y: 0.017703937, z: -0.21166536, w: 0.9670093}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: WERESNAKE_TONGUE_3
+      parentName: WERESNAKE_TONGUE_2
+      position: {x: -0.0045412416, y: 0.06880809, z: 0.0015505165}
+      rotation: {x: 0.19142199, y: 0.013152875, z: 0.03492105, w: 0.98079824}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1}
+    - name: WERESNAKE_TONGUE_4
+      parentName: WERESNAKE_TONGUE_3
+      position: {x: 0.00470016, y: 0.073039114, z: 0.009407315}
+      rotation: {x: 0.037706435, y: 0.0029814253, z: 0.0093380185, w: 0.9992408}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: WERESNAKE_HOOK_R
+      parentName: WERESNAKE_ Head
+      position: {x: 0.19398825, y: 0.1445571, z: 0.09008381}
+      rotation: {x: -0.2012127, y: -0.23079859, z: 0.95171446, w: -0.022025129}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.9999988}
+    - name: WERESNAKE_HOOK_L
+      parentName: WERESNAKE_ Head
+      position: {x: 0.1589423, y: 0.102428794, z: 0.16645782}
+      rotation: {x: -0.022024572, y: 0.95171416, z: 0.23079868, w: 0.20121405}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: WERESNAKE_ L Clavicle
+      parentName: WERESNAKE_ Spine1
+      position: {x: -0.0070162057, y: 0.25052452, z: -0.07465178}
+      rotation: {x: 0.16440374, y: -0.5124372, z: 0.8417579, w: -0.042699773}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ L UpperArm
+      parentName: WERESNAKE_ L Clavicle
+      position: {x: -0.000000011920928, y: 0.19574642, z: 0.00000010386109}
+      rotation: {x: -0.008810041, y: 0.029787887, z: -0.073743604, w: 0.9967933}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: WERESNAKE_ L Forearm
+      parentName: WERESNAKE_ L UpperArm
+      position: {x: -0.000000019073486, y: 0.42724806, z: -0.00000035330652}
+      rotation: {x: -0.00000034122434, y: 0.00000026075725, z: -0.29239416, w: 0.95629793}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ L Hand
+      parentName: WERESNAKE_ L Forearm
+      position: {x: -0.000000019073486, y: 0.42095974, z: -0.00000007808208}
+      rotation: {x: -0.06871139, y: 0.631483, z: -0.03628282, w: 0.7714866}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: WERESNAKE_ L Finger0
+      parentName: WERESNAKE_ L Hand
+      position: {x: -0.006360923, y: 0.05878353, z: 0.044537593}
+      rotation: {x: -0.55892915, y: 0.63896596, z: 0.22287904, w: -0.47921357}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999997}
+    - name: WERESNAKE_ L Finger01
+      parentName: WERESNAKE_ L Finger0
+      position: {x: 0.000000057220458, y: 0.056323126, z: 0.00000027418136}
+      rotation: {x: -0.000002284699, y: 0.0000006024705, z: 0.11640229, w: 0.99320215}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999998}
+    - name: WERESNAKE_ L Finger02
+      parentName: WERESNAKE_ L Finger01
+      position: {x: -0.000000019073486, y: 0.048173502, z: 0.00000012397766}
+      rotation: {x: 0.0000021134517, y: 0.00000012143171, z: 0.116402835, w: 0.9932021}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+    - name: WERESNAKE_ L Finger1
+      parentName: WERESNAKE_ L Hand
+      position: {x: 0.011698765, y: 0.1867498, z: 0.045154884}
+      rotation: {x: 0.09546739, y: -0.004664776, z: 0.052668698, w: 0.99402726}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: WERESNAKE_ L Finger11
+      parentName: WERESNAKE_ L Finger1
+      position: {x: 0.00000007152557, y: 0.055221975, z: 0.000000057220458}
+      rotation: {x: 0.0000013394998, y: -0.0000009728603, z: 0.116399534, w: 0.9932025}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: WERESNAKE_ L Finger12
+      parentName: WERESNAKE_ L Finger11
+      position: {x: 0.000000038146972, y: 0.04817335, z: -0.000000038146972}
+      rotation: {x: -0.000001902002, y: 0.00000059239636, z: 0.015934775, w: 0.99987304}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: WERESNAKE_ L Finger2
+      parentName: WERESNAKE_ L Hand
+      position: {x: 0.0116562825, y: 0.18621889, z: -0.008670301}
+      rotation: {x: 0.008922306, y: -0.00007474957, z: 0.05294399, w: 0.9985576}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: WERESNAKE_ L Finger21
+      parentName: WERESNAKE_ L Finger2
+      position: {x: 0.000000076293944, y: 0.059175298, z: -0.000000057220458}
+      rotation: {x: -0.0000025067707, y: 0.0000032448809, z: 0.07998757, w: 0.9967959}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: WERESNAKE_ L Finger22
+      parentName: WERESNAKE_ L Finger21
+      position: {x: -0.00000018119812, y: 0.04456398, z: 0.000000047683713}
+      rotation: {x: 0.0000039142055, y: -0.0000065171475, z: 0.05272578, w: 0.99860907}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: WERESNAKE_ L Finger3
+      parentName: WERESNAKE_ L Hand
+      position: {x: 0.011609154, y: 0.1861665, z: -0.067687765}
+      rotation: {x: -0.015557594, y: 0.0012230554, z: 0.05294978, w: 0.99847525}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999997}
+    - name: WERESNAKE_ L Finger31
+      parentName: WERESNAKE_ L Finger3
+      position: {x: 0.00000007152557, y: 0.050267678, z: 0.000000009536743}
+      rotation: {x: -0.0000010689746, y: 0.0000016222158, z: 0.116400056, w: 0.99320245}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: WERESNAKE_ L Finger32
+      parentName: WERESNAKE_ L Finger31
+      position: {x: 0.0000002002716, y: 0.044845123, z: 0.000000076293944}
+      rotation: {x: 0.000000151131, y: -0.00000086200635, z: 0.05825784, w: 0.9983016}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: WERESNAKE_ R Clavicle
+      parentName: WERESNAKE_ Spine1
+      position: {x: -0.008057911, y: 0.24876666, z: 0.0737928}
+      rotation: {x: -0.17080021, y: 0.50272137, z: 0.84659207, w: -0.037153333}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: WERESNAKE_ R UpperArm
+      parentName: WERESNAKE_ R Clavicle
+      position: {x: -0.000000009536743, y: 0.19574642, z: -0.000000048726797}
+      rotation: {x: 0.008810429, y: -0.029788164, z: -0.073743664, w: 0.9967933}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: WERESNAKE_ R Forearm
+      parentName: WERESNAKE_ R UpperArm
+      position: {x: -0.000000019073486, y: 0.42724818, z: 0.00000015661121}
+      rotation: {x: -0.00000008631042, y: -0.00000005185929, z: -0.29239428, w: 0.9562979}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Hand
+      parentName: WERESNAKE_ R Forearm
+      position: {x: 0.000000038146972, y: 0.42095953, z: 0.00000018239021}
+      rotation: {x: 0.06870961, y: -0.6314827, z: -0.036280997, w: 0.77148706}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: WERESNAKE_ R Finger0
+      parentName: WERESNAKE_ R Hand
+      position: {x: -0.00636114, y: 0.058783874, z: -0.04453745}
+      rotation: {x: -0.5589273, y: 0.638967, z: -0.22288129, w: 0.47921333}
+      scale: {x: 0.99999994, y: 0.99999964, z: 0.99999964}
+    - name: WERESNAKE_ R Finger01
+      parentName: WERESNAKE_ R Finger0
+      position: {x: 0.000000019073486, y: 0.056323316, z: -0.00000015497207}
+      rotation: {x: -0.000002199369, y: -0.00000021848354, z: 0.116402656, w: 0.99320215}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Finger02
+      parentName: WERESNAKE_ R Finger01
+      position: {x: -0.000000095367426, y: 0.04817352, z: 0.000000030994414}
+      rotation: {x: 0.0000011729418, y: 0.0000012879269, z: 0.116401106, w: 0.9932023}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ R Finger1
+      parentName: WERESNAKE_ R Hand
+      position: {x: 0.011699583, y: 0.18675014, z: -0.04515471}
+      rotation: {x: -0.09546737, y: 0.0046648374, z: 0.052666247, w: 0.99402744}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999976}
+    - name: WERESNAKE_ R Finger11
+      parentName: WERESNAKE_ R Finger1
+      position: {x: -0.00000010967254, y: 0.055221938, z: 0.000000057220458}
+      rotation: {x: -0.000002049337, y: 0.0000025580375, z: 0.11640382, w: 0.993202}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+    - name: WERESNAKE_ R Finger12
+      parentName: WERESNAKE_ R Finger11
+      position: {x: 0.000000019073486, y: 0.048173655, z: -0.000000019073486}
+      rotation: {x: 0.0000017809148, y: -0.0000032563166, z: 0.015926661, w: 0.99987316}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: WERESNAKE_ R Finger2
+      parentName: WERESNAKE_ R Hand
+      position: {x: 0.011656412, y: 0.18621896, z: 0.008670459}
+      rotation: {x: -0.008921948, y: 0.000074079704, z: 0.05294191, w: 0.99855775}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999997}
+    - name: WERESNAKE_ R Finger21
+      parentName: WERESNAKE_ R Finger2
+      position: {x: 0.000000028610229, y: 0.059175145, z: 0.000000028610229}
+      rotation: {x: -0.0000006474811, y: 0.0000003597117, z: 0.07998723, w: 0.9967959}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: WERESNAKE_ R Finger22
+      parentName: WERESNAKE_ R Finger21
+      position: {x: 0.00000015258789, y: 0.04456413, z: -0.000000095367426}
+      rotation: {x: 0.00000033760847, y: -0.00000081510996, z: 0.05272165, w: 0.9986093}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Finger3
+      parentName: WERESNAKE_ R Hand
+      position: {x: 0.011609564, y: 0.1861667, z: 0.06768783}
+      rotation: {x: 0.0155579625, y: -0.0012240602, z: 0.05294616, w: 0.99847543}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: WERESNAKE_ R Finger31
+      parentName: WERESNAKE_ R Finger3
+      position: {x: -0.000000035762785, y: 0.050267637, z: 0.000000038146972}
+      rotation: {x: 0.0000004125867, y: -0.00000001500315, z: 0.11640348, w: 0.99320203}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: WERESNAKE_ R Finger32
+      parentName: WERESNAKE_ R Finger31
+      position: {x: 0.000000047683713, y: 0.044845026, z: -0.000000095367426}
+      rotation: {x: 0.0000005280255, y: -0.0000015411628, z: 0.05825436, w: 0.9983018}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999976}
+    - name: WERESNAKE_ R Thigh
+      parentName: WERESNAKE_ Pelvis
+      position: {x: -0.00000016402271, y: -0.00000015263817, z: -0.14997321}
+      rotation: {x: -0.068606414, y: 0.025892181, z: -0.6734052, w: 0.73562783}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: WERESNAKE_ R Calf
+      parentName: WERESNAKE_ R Thigh
+      position: {x: -0.000000009536743, y: 0.67225105, z: 0.000000036656857}
+      rotation: {x: 0.0666343, y: -0.009492616, z: -0.069695875, w: 0.9952951}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: WERESNAKE_ R Foot
+      parentName: WERESNAKE_ R Calf
+      position: {x: 0.000000002980232, y: 0.5662484, z: -0.00000000692904}
+      rotation: {x: 0.00007316484, y: -0.066121764, z: 0.023128064, w: 0.9975435}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ R Toe0
+      parentName: WERESNAKE_ R Foot
+      position: {x: 0.033904746, y: 0.07177099, z: -0.006921003}
+      rotation: {x: 0.4823227, y: 0.87574583, z: -0.010051149, w: -0.0182499}
+      scale: {x: 0.9999999, y: 1.0000005, z: 0.99999976}
+    - name: WERESNAKE_ R Toe01
+      parentName: WERESNAKE_ R Toe0
+      position: {x: 0.0000000011920929, y: 0.06162702, z: -0.000000021761288}
+      rotation: {x: 0.00000036782274, y: 0.0000008387087, z: 0.27115425, w: 0.9625359}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1}
+    - name: WERESNAKE_ R Toe02
+      parentName: WERESNAKE_ R Toe01
+      position: {x: 2.9802322e-10, y: 0.06829662, z: -0.0000000058224296}
+      rotation: {x: -0.00000005193843, y: -0.00000005314241, z: -0.00000012457167, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: WERESNAKE_ R Toe1
+      parentName: WERESNAKE_ R Foot
+      position: {x: -0.09336575, y: 0.11131337, z: -0.06636844}
+      rotation: {x: -0.15436098, y: -0.15436132, z: 0.6900527, w: 0.6900527}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: WERESNAKE_ R Toe11
+      parentName: WERESNAKE_ R Toe1
+      position: {x: -8.0042806e-10, y: 0.09125062, z: 0.00000010928732}
+      rotation: {x: 0.00000005960473, y: 0.0000003389742, z: -0.000000014011115, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Toe12
+      parentName: WERESNAKE_ R Toe11
+      position: {x: -6.7084327e-10, y: 0.054859657, z: -7.9356366e-10}
+      rotation: {x: 0.0000008270147, y: 0.0000005364419, z: 9.414691e-13, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Toe2
+      parentName: WERESNAKE_ R Foot
+      position: {x: -0.11411604, y: 0.11131332, z: -0.0022532416}
+      rotation: {x: 0.00000009784109, y: -0.00000027169654, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: WERESNAKE_ R Toe21
+      parentName: WERESNAKE_ R Toe2
+      position: {x: 7.809649e-10, y: 0.10456802, z: 0.00000006353696}
+      rotation: {x: 0.000000007450706, y: -0.00000014325634, z: -0.0000000042125023, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Toe22
+      parentName: WERESNAKE_ R Toe21
+      position: {x: -3.189416e-10, y: 0.061632972, z: 0.000000013272686}
+      rotation: {x: -0.00000003725291, y: 0.000000089653604, z: 0.000000009670977, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_ R Toe3
+      parentName: WERESNAKE_ R Foot
+      position: {x: -0.10130044, y: 0.111313306, z: 0.06010539}
+      rotation: {x: 0.1619119, y: 0.16191056, z: 0.68832016, w: 0.68832034}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: WERESNAKE_ R Toe31
+      parentName: WERESNAKE_ R Toe3
+      position: {x: -2.371655e-10, y: 0.09970826, z: -0.0000000018265163}
+      rotation: {x: -0.0000000074512085, y: 0.00000083585314, z: 6.5827854e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ R Toe32
+      parentName: WERESNAKE_ R Toe31
+      position: {x: -0.0000000010210897, y: 0.067706734, z: 0.000000009251104}
+      rotation: {x: 0.000000033527698, y: 7.1054274e-14, z: 1.4210854e-14, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: WERESNAKE_ L Thigh
+      parentName: WERESNAKE_ Pelvis
+      position: {x: 0.00000016402298, y: 0.00000026504767, z: 0.14997317}
+      rotation: {x: 0.06664736, y: -0.023819469, z: -0.6749146, w: 0.73449373}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1}
+    - name: WERESNAKE_ L Calf
+      parentName: WERESNAKE_ L Thigh
+      position: {x: 0.0000000011920929, y: 0.7019708, z: 0.0000000062584875}
+      rotation: {x: -0.071693055, y: 0.009827546, z: -0.068994425, w: 0.9949891}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: WERESNAKE_ L Foot
+      parentName: WERESNAKE_ L Calf
+      position: {x: -0, y: 0.549201, z: 0.000000002235174}
+      rotation: {x: 0.0076649096, y: 0.06603749, z: 0.025008654, w: 0.99747425}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: WERESNAKE_ L Toe0
+      parentName: WERESNAKE_ L Foot
+      position: {x: 0.033904757, y: 0.07177104, z: 0.0069209854}
+      rotation: {x: 0.48232248, y: 0.87574595, z: 0.010051519, w: 0.018250098}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ L Toe01
+      parentName: WERESNAKE_ L Toe0
+      position: {x: 0.00000000461936, y: 0.06162702, z: -0.000000026305642}
+      rotation: {x: 0.00000013723849, y: -0.000000025896364, z: 0.27115425, w: 0.9625359}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: WERESNAKE_ L Toe02
+      parentName: WERESNAKE_ L Toe01
+      position: {x: 0.000000015050173, y: 0.068296604, z: 0.000000038611805}
+      rotation: {x: 0.0000000112465015, y: -9.474378e-10, z: 0.000000003521564, w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: WERESNAKE_ L Toe1
+      parentName: WERESNAKE_ L Foot
+      position: {x: -0.09336578, y: 0.11131334, z: 0.066368505}
+      rotation: {x: 0.154361, y: 0.15436108, z: 0.6900527, w: 0.6900526}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: WERESNAKE_ L Toe11
+      parentName: WERESNAKE_ L Toe1
+      position: {x: 6.5092537e-10, y: 0.09125066, z: 0.000000022218941}
+      rotation: {x: -0.000000230968, y: -0.000000062738906, z: 0.000000026902155, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: WERESNAKE_ L Toe12
+      parentName: WERESNAKE_ L Toe11
+      position: {x: -3.8742654e-10, y: 0.054859683, z: 0.0000000024854414}
+      rotation: {x: 0.000000037253123, y: -0.00000029367212, z: -0.000000021729875, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_ L Toe2
+      parentName: WERESNAKE_ L Foot
+      position: {x: -0.11411604, y: 0.11131337, z: 0.0022532393}
+      rotation: {x: 0.0000001005691, y: 0.000000025871497, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: WERESNAKE_ L Toe21
+      parentName: WERESNAKE_ L Toe2
+      position: {x: -4.9451043e-10, y: 0.10456807, z: 0.0000000115588294}
+      rotation: {x: -0.0000006258483, y: -0.00000063648446, z: 0.000000010011782, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: WERESNAKE_ L Toe22
+      parentName: WERESNAKE_ L Toe21
+      position: {x: -2.2335371e-10, y: 0.061632957, z: -0.00000002851609}
+      rotation: {x: 0.0000009760253, y: 0.0000010433199, z: -0.000000009670956, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: WERESNAKE_ L Toe3
+      parentName: WERESNAKE_ L Foot
+      position: {x: -0.10130041, y: 0.111313395, z: -0.060105346}
+      rotation: {x: -0.16191193, y: -0.16191082, z: 0.6883201, w: 0.6883204}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: WERESNAKE_ L Toe31
+      parentName: WERESNAKE_ L Toe3
+      position: {x: -0.0000000015451951, y: 0.0997083, z: 0.00000006686167}
+      rotation: {x: 0.00000011920964, y: -0.0000009416282, z: -0.0000000028263187, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_ L Toe32
+      parentName: WERESNAKE_ L Toe31
+      position: {x: -8.9155944e-10, y: 0.06770679, z: -2.6506086e-10}
+      rotation: {x: 0.00000026077015, y: 0.00000029802408, z: 9.947599e-14, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: WERESNAKE_ Tail
+      parentName: WERESNAKE_ Pelvis
+      position: {x: 0.0032125185, y: -0.17864296, z: 0.014252685}
+      rotation: {x: 0.92177236, y: 0.38736755, z: -0.013873411, w: 0.00947139}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1}
+    - name: WERESNAKE_ Tail1
+      parentName: WERESNAKE_ Tail
+      position: {x: 0.00010880053, y: 0.08990146, z: 0.000011006593}
+      rotation: {x: -0.0021297552, y: -0.0005973556, z: 0.021141864, w: 0.99977404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WERESNAKE_ Tail2
+      parentName: WERESNAKE_ Tail1
+      position: {x: 0.00009254418, y: 0.13716811, z: 0.000009264946}
+      rotation: {x: -0.0056265714, y: -0.0020715187, z: 0.057390116, w: 0.9983338}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: WERESNAKE_ Tail3
+      parentName: WERESNAKE_ Tail2
+      position: {x: 0.00009559542, y: 0.117459275, z: 0.000009171962}
+      rotation: {x: -0.0054339343, y: -0.0027569055, z: 0.05833011, w: 0.9982788}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: WERESNAKE_ Tail4
+      parentName: WERESNAKE_ Tail3
+      position: {x: 0.00009080589, y: 0.1214583, z: 0.000008196831}
+      rotation: {x: -0.00933563, y: -0.0069729416, z: 0.11206737, w: 0.9936323}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: WERESNAKE_ Tail5
+      parentName: WERESNAKE_ Tail4
+      position: {x: 0.000078954996, y: 0.11759775, z: 0.0000060236453}
+      rotation: {x: -0.010259976, y: -0.013471343, z: 0.1641126, w: 0.98629624}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: WERESNAKE_ Tail6
+      parentName: WERESNAKE_ Tail5
+      position: {x: 0.000091702044, y: 0.105159424, z: 0.0000044631956}
+      rotation: {x: -0.0044296426, y: -0.011546155, z: 0.11918096, w: 0.9927955}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: WERESNAKE_ Tail7
+      parentName: WERESNAKE_ Tail6
+      position: {x: 0.00008919075, y: 0.11857508, z: 0.0000022745132}
+      rotation: {x: -0.00049625116, y: -0.0021619329, z: 0.021243073, w: 0.9997719}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Fishenemy
+      parentName: FischMenschModelV1.1(Clone)
+      position: {x: -4.656613e-10, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
